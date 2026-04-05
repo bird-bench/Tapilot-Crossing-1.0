@@ -13,7 +13,7 @@
 
 ## 🌐 Project Overview
 
-Tapilot-Crossing is an innovative benchmark designed to evaluate Language Model (LLM) agent performance on interactive data analysis tasks. This project introduces a cost-effective way to simulate realistic user-agent interactions via DECISION COMPANY. Tapilot-Crossing includes **1094 user intents** across **952 entries** in 8 categories, spanning 5 data domains (credit card risk, ATP tennis, fast food nutrition, laptop pricing, Melbourne housing). It also features the **A**daptive **I**nteraction **R**eflection (**AIR**) strategy, aimed at improving LLM agent ability to learn from their interaction histories, leading to significant performance enhancements. This is the [data intelligence index](https://livesqlbench.ai/data-intelligence-index/) version of the benchmark.
+Tapilot-Crossing is an innovative benchmark designed to evaluate Language Model (LLM) agent performance on interactive data analysis tasks. This project introduces a cost-effective way to simulate realistic user-agent interactions via DECISION COMPANY. Tapilot-Crossing includes **1094 user intents** across **946 entries** in 8 categories, spanning 5 data domains (credit card risk, ATP tennis, fast food nutrition, laptop pricing, Melbourne housing). It also features the **A**daptive **I**nteraction **R**eflection (**AIR**) strategy, aimed at improving LLM agent ability to learn from their interaction histories, leading to significant performance enhancements. This is the [data intelligence index](https://livesqlbench.ai/data-intelligence-index/) version of the benchmark.
 
 ## 🏆 Baseline Performance
 
